@@ -1,0 +1,8 @@
+/build/
+/.vscode/
+*.exe
+*.o
+*.obj
+/data/history.csv
+/data/history_vi.csv
+flashcard_self_test.csv

@@ -1,0 +1,11 @@
+id,deck,subject,type,prompt,option_a,option_b,option_c,option_d,answer
+Q1,C++ Fundamentals,Data Types,MC,Which keyword creates an integer variable?,float,int,char,bool,B
+Q2,C++ Fundamentals,OOP,TF,A virtual function can be overridden in a derived class.,,,,,T
+Q3,C++ Fundamentals,STL,FB,Which C++ container is a dynamic array?,,,,,vector
+Q4,C++ Fundamentals,Operators,CO,What is the output of cout << 2 + 3; ?,,,,,5
+Q5,C++ Fundamentals,OOP,MC,Which access level allows usage from derived classes?,private,protected,internal,hidden,B
+Q6,C++ Fundamentals,Loops,TF,A while loop always executes at least once.,,,,,F
+Q7,C++ Fundamentals,Control Flow,FB,Which keyword exits a loop immediately?,,,,,break
+Q8,Computer Basics,Hardware,MC,Which component stores temporary working data?,SSD,RAM,CPU,ROM,B
+Q9,Computer Basics,Number Systems,CO,What is the output of cout << 10 / 3; when both operands are integers?,,,,,3
+Q10,Computer Basics,Networking,TF,TCP is a connection-oriented protocol.,,,,,T

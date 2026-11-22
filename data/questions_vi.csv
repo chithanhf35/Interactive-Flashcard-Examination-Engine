@@ -1,0 +1,11 @@
+id,deck,subject,type,prompt,option_a,option_b,option_c,option_d,answer
+Q1,C++ cơ bản,Kiểu dữ liệu,MC,Từ khóa nào khai báo một biến số nguyên trong C++?,float,int,char,bool,B
+Q2,C++ cơ bản,Lập trình hướng đối tượng,TF,Hàm ảo có thể được ghi đè trong lớp kế thừa.,,,,,T
+Q3,C++ cơ bản,Thư viện STL,FB,Container C++ nào được dùng như mảng động?,,,,,vector
+Q4,C++ cơ bản,Toán tử,CO,Kết quả in ra của cout << 2 + 3; là gì?,,,,,5
+Q5,C++ cơ bản,Lập trình hướng đối tượng,MC,Mức truy cập nào cho phép lớp dẫn xuất sử dụng?,private,protected,internal,hidden,B
+Q6,C++ cơ bản,Vòng lặp,TF,Vòng lặp while luôn chạy ít nhất một lần.,,,,,F
+Q7,C++ cơ bản,Điều khiển luồng,FB,Từ khóa nào thoát ngay khỏi vòng lặp?,,,,,break
+Q8,Kiến thức máy tính,Phần cứng,MC,Bộ phận nào lưu dữ liệu tạm thời khi chương trình đang chạy?,SSD,RAM,CPU,ROM,B
+Q9,Kiến thức máy tính,Hệ đếm,CO,Kết quả của cout << 10 / 3; khi hai toán hạng là số nguyên là gì?,,,,,3
+Q10,Kiến thức máy tính,Mạng máy tính,TF,TCP là giao thức có thiết lập kết nối.,,,,,T
