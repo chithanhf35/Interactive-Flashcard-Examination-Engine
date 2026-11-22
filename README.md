@@ -1,3 +1,5 @@
+> **Tiếng Việt:** Xem [Hướng dẫn sử dụng bằng tiếng Việt](README_VI.md). Khi chạy ứng dụng, ngôn ngữ mặc định là **Tiếng Việt** (nhấn Enter để chọn); có thể nhập **2** để sử dụng tiếng Anh.
+
 # Interactive Flashcard & Examination Engine
 
 **Course project - C++17 (Topic 5).** A console-based flashcard and examination system with question banks, timed quizzes, adaptive practice, learning analytics and CSV persistence.
